@@ -1,0 +1,72 @@
+Jean-François Trieu
+Ingénieur d'étude et développement
+Le Plessis-Bouchard (95) - Email me on Indeed: indeed.com/r/Jean-
+Francois-Trieu/99db4e250cf31e32
+
+EXPÉRIENCE
+
+Ingénieur étude et développement
+
+SOPRA STERIA - Saint-Denis (93) 
+
+juillet 2015 - juin 2017
+
+Intervention sur les sujet Centreon en Agile sur les domaines 
+suivant: FTTH, Backbone IP, RADIO, VOIX,
+CPE et
+IN
+Scripting
+Réseau
+Développement
+Configuration
+Tool IP
+Création d'un OMC en méthode Agile
+Scripting (Perl, Bash, MySql)- Network (Cisco, Huawei, Alcatel )
+Sécurisation (Tacacs / Syslog)
+Sauvegarde de configuration (Rancid)
+Administration de système Linux- Webservice (Soap)
+
+Ingénieur étude et développement
+
+SOPRA STERIA - Orange (84) 
+
+juin 2015 - juin 2017
+
+Tests d'une plateforme B2B Orange
+Intervention sur les sujet Centreon et ToolIP pour le compte de SFR.
+
+Développeur Android
+
+DORO AB - Paris (75) 
+
+avril 2013 - juillet 2013
+
+Développement d'applications Android pour les personnes de 65 ans et 
+plus
+
+Développeur JAVA
+
+RATP - La Défense (92) 
+
+juin 2012 - août 2012
+
+Développement web
+
+FORMATION
+
+Ingénieur en système d’information
+
+ECE Paris - Paris (75)
+
+2015
+
+COMPÉTENCE
+LINUX (1 an), PERL (1 an), PHP (Moins d'un an), SNMP (Moins d'un an)
+
+INFORMATIONS COMPLÉMENTAIRES
+COMPÉTENCES
+Centreon Scripting: Perl, Bash
+Systèmes Linux / RedHat SSH / Telnet / SNMP
+PHP (Base)
+
+

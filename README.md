@@ -1,1 +1,1 @@
-Pathfinder-django
+pathfinder

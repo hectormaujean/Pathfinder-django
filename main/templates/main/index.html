@@ -1,0 +1,90 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Pathfinder</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+</head>
+
+<body>
+
+<div class="site-wrapper">
+
+    <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+            <div class="masthead clearfix">
+                <div class="inner">
+                    <h1 class="masthead-brand">Pathfinder</h1>
+                </div>
+            </div>
+
+            <div class="cover-container">
+                <h1 class="cover-heading">Sélection des critères</h1>
+                <div class="row row-dropdowns">
+                    <div class="col-sm">
+                        <div class="input-group-test mb-3">
+                            <select class="custom-select" id="inputGroupJob">
+                                <option selected disabled>Métier</option>
+                                {% for job_title in job_titles %}
+                                    <option value={{ job_title }}>{{ job_title }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="input-group-test mb-3">
+                            <select class="custom-select" id="inputGroupSchool">
+                                <option selected disabled>École</option>
+                                {% for school in schools %}
+                                    <option value={{ school }}>{{ school }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="input-group-test mb-3">
+                            <select class="custom-select" id="inputGroupGender">
+                                <option selected disabled>Sexe</option>
+                                {% for gender in genders %}
+                                    <option value={{ gender }}>{{ gender }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <a href="" id="search" class="btn btn-lg btn-primary">Lancer la recherche</a>
+            </div>
+
+            <div class="mastfoot">
+                <div class="inner">
+                    <p>Pathfinder, projet réalisé par des étudiants de l'<a href="http://www.ece.fr/ecole-ingenieur/">ECE</a> en partenariat avec <a href="https://pixis.co/">Pixis</a></p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script type="text/javascript" src="../../static/js/index.js" ></script>
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+</body>
+</html>
+
