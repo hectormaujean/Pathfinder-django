@@ -3,7 +3,7 @@ from django.conf.urls import url
 from . import views
 
 urlpatterns = [
-    url(r'^$', views.home, name='home'),
+    url(r'^$', views.index, name='home'),
     # ex: /job
     url(r'^(?P<job_title>(\w+)+)$', views.job, name='job'),
     # ex: /ecole

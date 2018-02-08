@@ -170,10 +170,10 @@ for variable in lignes:
     i=int(variable)
 
 b = True
-
+count = 1
 
 #telecharge les cv du serveur
-while(b):
+while (i < 80) & b:
 
     try:
         """
@@ -191,7 +191,7 @@ while(b):
             outputStream.close()
         """
         print("------ cv " + str(i) + "------")
-        txt = convert('pdfminer/samples/CV'+str(i)+'.pdf')
+        txt = convert('main/scripts/pdfminer/samples/CV'+str(i)+'.pdf')
 
         
         # ouverture du fichier en mode ecriture

@@ -1,72 +1,103 @@
-Jean-François Trieu
-Ingénieur d'étude et développement
-Le Plessis-Bouchard (95) - Email me on Indeed: indeed.com/r/Jean-
-Francois-Trieu/99db4e250cf31e32
+Myriam TAJINI
+DATA ANALYST
+Montpellier (34) - Email me on Indeed: indeed.com/r/BASMA-TAJINI/
+d080b75bf7570c54
+Disposé(e) à déménager n'importe où
 
 EXPÉRIENCE
 
-Ingénieur étude et développement
+Data analyst d'économie Consultante fonctionnelle junior
 
-SOPRA STERIA - Saint-Denis (93) 
+- 
 
-juillet 2015 - juin 2017
+septembre 2017 - mars 2018
 
-Intervention sur les sujet Centreon en Agile sur les domaines 
-suivant: FTTH, Backbone IP, RADIO, VOIX,
-CPE et
-IN
-Scripting
-Réseau
-Développement
-Configuration
-Tool IP
-Création d'un OMC en méthode Agile
-Scripting (Perl, Bash, MySql)- Network (Cisco, Huawei, Alcatel )
-Sécurisation (Tacacs / Syslog)
-Sauvegarde de configuration (Rancid)
-Administration de système Linux- Webservice (Soap)
+• Conception systèmes de base de
+• Rétro-ingénierie d'une base de données sous Mérise données
+• Etude de l'existant et modélisation fonctionnelle
+• Analayse et recueil des besoins
+• Réalisation d'un cahier des charges fonctionnels et techniques 
+OUTILS &
+• Paramétrage de la solution Montpellier
 
-Ingénieur étude et développement
+Analyste logistique
 
-SOPRA STERIA - Orange (84) 
+MAFRANCHISE -
 
-juin 2015 - juin 2017
+janvier 2016 - juillet 2017
 
-Tests d'une plateforme B2B Orange
-Intervention sur les sujet Centreon et ToolIP pour le compte de SFR.
+Gestion comptable: Sage
+(ETAM, 123, UJA, CAROLL, DPAM, TAO, DEVRED, JULES, PIMKIE, MINELLI, 
+ANDRE, BRICE )
+ERP: Colombus, Cegid Retail
+• Analyse de données massives des états de stocks, des ventes, des 
+inventaires et des litiges pour les 47
+points de ventes
+Gestion de projet: Freemind,
+• Etablissement des tableaux de bord pour le pilotage de l'activité 
+Ms project
+• Conception des outils de reporting et suivi des KPIs Casablanca 
+Programmation: SQL, PHP,
+HTML, VBA
 
-Développeur Android
+Chargé de contrôle de gestion
 
-DORO AB - Paris (75) 
+BU Carrefour -
 
-avril 2013 - juillet 2013
+février 2015 - juin 2015
 
-Développement d'applications Android pour les personnes de 65 ans et 
-plus
+Econométrie: SAS, R
+• Etablissement des reporting: CA TTC, Fréquentation &Panier Moyen 
+Vs Data science: Weka, BI
 
-Développeur JAVA
+Assistante financière
 
-RATP - La Défense (92) 
+ServiMaroc SARL - Casablanca, MA -
 
-juin 2012 - août 2012
+mars 2014 - octobre 2014
 
-Développement web
+• Gestion et évaluation des coûts et des devis, suivi des budgets
 
-FORMATION
+Assistante chef de projet Finance Participative
 
-Ingénieur en système d’information
+Bank Al-Maghrib -
 
-ECE Paris - Paris (75)
+janvier 2013 - juillet 2013
 
-2015
+Créative
+• Réalisation d'un projet sous-titre: Audit Charia au sein des 
+banques
+participatives au MAROC Pro-active
+
+FORMATION
+
+Master en systèmes d'information économique et financière
+
+Université de Montpellier France - Montpellier (34)
+
+septembre 2017 - septembre 2018
 
 COMPÉTENCE
-LINUX (1 an), PERL (1 an), PHP (Moins d'un an), SNMP (Moins d'un an)
+
+AUDIT (Moins d'un an), MARKETING (Moins d'un an), GESTION (Moins 
+d'un an), MANAGÉRIALES
+(Moins d'un an)
 
 INFORMATIONS COMPLÉMENTAIRES
-COMPÉTENCES
-Centreon Scripting: Perl, Bash
-Systèmes Linux / RedHat SSH / Telnet / SNMP
-PHP (Base)
+
+COMPETENCES
+• Analyse & audit de données
+Master en Audit et Contrôle de Gestion 2011 - 2013
+Faculté des sciences juridiques économiques et sociales, Université 
+Hassan II • Gestion de projet
+Casablanca MAROC • Management stratégique
+• Programmation (en cours)
+Licence en économie et gestion 2008 - 2011 • Contrôle de gestion
+Faculté des sciences juridiques économiques et sociales, Université 
+Hassan II • Reporting & Datavisualisation
+Casablanca MAROC
+• Marketing stratégique et
+opérationnel
+• Traitement des stocks et
 
 

@@ -32,39 +32,11 @@
 
             <div class="cover-container">
                 <h1 class="cover-heading">Sélection des critères</h1>
-                <div class="row row-dropdowns">
-                    <div class="col-sm">
-                        <div class="input-group-test mb-3">
-                            <select class="custom-select" id="inputGroupJob">
-                                <option selected disabled>Métier</option>
-                                {% for job_title in job_titles %}
-                                    <option value={{ job_title }}>{{ job_title }}</option>
-                                {% endfor %}
-                            </select>
-                        </div>
-                    </div>
-                    <div class="col-sm">
-                        <div class="input-group-test mb-3">
-                            <select class="custom-select" id="inputGroupSchool">
-                                <option selected disabled>École</option>
-                                {% for school in schools %}
-                                    <option value={{ school }}>{{ school }}</option>
-                                {% endfor %}
-                            </select>
-                        </div>
-                    </div>
-                    <div class="col-sm">
-                        <div class="input-group-test mb-3">
-                            <select class="custom-select" id="inputGroupGender">
-                                <option selected disabled>Sexe</option>
-                                {% for gender in genders %}
-                                    <option value={{ gender }}>{{ gender }}</option>
-                                {% endfor %}
-                            </select>
-                        </div>
-                    </div>
-                </div>
-                <a href="" id="search" class="btn btn-lg btn-primary">Lancer la recherche</a>
+                <form action="/results" method="POST">
+                    {% csrf_token %}
+                    {{ form.as_p }}
+                    <input type="Submit" name="submit" value="Submit"/>
+                </form>
             </div>
 
             <div class="mastfoot">
